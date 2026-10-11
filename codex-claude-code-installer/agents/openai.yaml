@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Claude Code Installer"
+  short_description: "Install or update Claude Code on Windows"
+  default_prompt: "Install or update the latest Claude Code CLI on this Windows machine, then verify the installed version."
